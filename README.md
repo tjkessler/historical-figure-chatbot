@@ -10,8 +10,8 @@ This project is a full-stack web application that allows users to chat with AI-p
 - Modern frontend UI
 
 <p align="center">
-	<img src="./img/personas.png" alt="Personas UI" width="400" style="margin: 0 16px;" />
-	<img src="./img/chat.png" alt="Chat UI" width="400" style="margin: 0 16px;" />
+	<img src="./img/select.png" alt="Select personas UI" width="600" style="margin: 0 16px;" />
+	<img src="./img/chat.png" alt="Chat UI" width="600" style="margin: 0 16px;" />
 </p>
 
 ## Project Structure
